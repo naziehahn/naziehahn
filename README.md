@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naziehahn
+- 👋 Hi, I’m Naziehah Taibatunniswah
 - 👀 I’m interested in data mining, visualizing data, and analyzing data such as predicting or modeling using statistical method
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me https://www.linkedin.com/in/naziehahtaibatunniswah/
